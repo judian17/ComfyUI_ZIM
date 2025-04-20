@@ -1,0 +1,14 @@
+[project]
+name = "zim"
+description = "The unofficial implementation of ZIM in ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/judian17/ComfyUI_ZIM"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ZIM"
+Icon = ""
