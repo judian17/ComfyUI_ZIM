@@ -1,0 +1,4 @@
+zim_anything
+onnxruntime-gpu
+Pillow
+numpy<=1.26.4
