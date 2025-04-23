@@ -9,6 +9,6 @@ Repository = "https://github.com/judian17/ComfyUI_ZIM"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "judian17"
 DisplayName = "ComfyUI_ZIM"
 Icon = ""
