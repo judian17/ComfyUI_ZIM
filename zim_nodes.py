@@ -106,7 +106,7 @@ class ZimSegment:
     RETURN_TYPES = ("MASK",)
     RETURN_NAMES = ("mask",)
     FUNCTION = "segment"
-    CATEGORY = "ZIM"
+    CATEGORY = "ComfyUI_ZIM" # Changed category
 
     def segment(self, image, model_name, backbone, positive_points="[]", negative_points="[]", bbox=None):
         global loaded_models, loaded_predictors, cached_image_features # 确保全局变量被引用
